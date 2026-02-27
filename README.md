@@ -20,11 +20,6 @@ It is structured around the full BA lifecycle: from understanding a problem and 
 | [`BA_Methods_Matrix.md`](BA_Methods_Matrix.md) | Problem-to-method reference: given a challenge, find the right BA method, key steps, and expected deliverable |
 | [`BA_Deliverables_Matrix.md`](BA_Deliverables_Matrix.md) | Overview of standard BA deliverables, when to use them, and what "good" looks like |
 | [`AI_Enabled_BA_Deliverables_Catalog.md`](AI_Enabled_BA_Deliverables_Catalog.md) | Comprehensive catalog of BA deliverables enriched with AI acceleration prompts and automation ideas |
-| [`BA_Context_Block_Schema.md`](BA_Context_Block_Schema.md) | Universal JSON schema (BA Context Block 1.0) for standardising any BA deliverable in a human- and AI-readable format |
-| [`Context_Blocks_Diagram.md`](Context_Blocks_Diagram.md) | Conceptual diagram showing how all BA context blocks relate to each other and the information flow between them |
-| [`context-blocks-diagram.mmd`](context-blocks-diagram.mmd) | Mermaid source for the context blocks relationship diagram |
-| [`Context_blocks/`](Context_blocks/) | Template context block files for common BA deliverable types |
-| [`Context_block_examples/`](Context_block_examples/) | Worked examples of context blocks populated with realistic content |
 | [`CDM_BrownBag_series.md`](CDM_BrownBag_series.md) | Notes and materials from the AI BrownBag sessions exploring how BAs can leverage AI tools in practice |
 
 ---
@@ -43,8 +38,7 @@ It is structured around the full BA lifecycle: from understanding a problem and 
 1. **New to a project?** → Start with [`BA_New_Joiner_Guide.md`](BA_New_Joiner_Guide.md)
 2. **Have a specific problem?** → Use [`BA_Methods_Matrix.md`](BA_Methods_Matrix.md) to find the right method
 3. **Need to produce a deliverable?** → Check [`BA_Deliverables_Matrix.md`](BA_Deliverables_Matrix.md) or [`AI_Enabled_BA_Deliverables_Catalog.md`](AI_Enabled_BA_Deliverables_Catalog.md)
-4. **Want a standard format for your artifacts?** → See [`BA_Context_Block_Schema.md`](BA_Context_Block_Schema.md) and the [`Context_block_examples/`](Context_block_examples/) folder
-5. **Exploring AI-assisted BA work?** → Browse [`AI_Enabled_BA_Deliverables_Catalog.md`](AI_Enabled_BA_Deliverables_Catalog.md) and [`CDM_BrownBag_series.md`](CDM_BrownBag_series.md)
+4. **Exploring AI-assisted BA work?** → Browse [`AI_Enabled_BA_Deliverables_Catalog.md`](AI_Enabled_BA_Deliverables_Catalog.md) and [`CDM_BrownBag_series.md`](CDM_BrownBag_series.md)
 
 ---
 
