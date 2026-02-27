@@ -57,4 +57,16 @@ It is structured around the full BA lifecycle: from understanding a problem and 
 
 ---
 
+## Contributing
+
+Contributions are welcome from everyone — no Git experience required.
+
+See **[CONTRIBUTING.md](CONTRIBUTING.md)** for step-by-step instructions:
+- **No Git?** Use GitHub's web editor to suggest changes directly in the browser.
+- **Git user?** Fork the repo, make your changes on a branch, and open a pull request.
+
+You can also open an [Issue](../../issues) to report a mistake, suggest new content, or ask a question.
+
+---
+
 *This toolbox is a living reference. Contributions and improvements are welcome.*
